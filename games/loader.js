@@ -6,5 +6,7 @@ var _games = $.getJSON("games/games.json", function(data, status){
       alert(status + ": There was an error loading your games.");
     }
 });
+mygames = _games.responseText;
+games = JSON.parse(mygames);
 
 
