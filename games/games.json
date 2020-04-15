@@ -1,0 +1,14 @@
+{
+  "games":[
+    {
+      uuid: "37d4926a-87f9-4ec4-af56-12d1374b14db",
+      title: "Birthday Cake Run",
+      location: "BCakeRun/app.html"
+    },
+    {
+      uuid: "8e05480f-96be-47cf-9ae0-70dd6393f6e3",
+      title: "Taco Chase",
+      location: "TacoChase/app.html"
+    }
+  ]
+}
